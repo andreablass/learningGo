@@ -2,7 +2,7 @@
 
 # Dowload Go (For linux)  https://golang.org/dl/
 
-# Unzip the tar.gz file in the / usr / local directory
+Unzip the tar.gz file in the / usr / local directory
 
 # In home modify the .bashrc/.zshrc file
 
